@@ -79,18 +79,10 @@ body{font-family: arial;
     padding: 10px;
 }
 .contentheader{}
-.contentheader h3{background: #fe5;
-    padding: 9px;
-    text-align: center;
-    font-size: 24px;
-    border-bottom: 3px solid #000;
-    color: black;
+.contentheader table{text-align: center;
+
 }
-.contentheader p{margin-bottom: 12px;
-    margin: 10px 6px 0 0;
-    text-align: justify;
-    margin-bottom: 12px;
-}
+
 .footersection{height: 70px;
     background:darkgreen
 }
